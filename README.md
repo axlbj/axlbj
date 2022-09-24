@@ -1,6 +1,6 @@
 <img align="right" alt="Banner" width="2000" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h1 align="center">Hi 👋, I'm Axl BJ</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate mobile app developer from Philippines</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/axlbjx" target="blank"><img src="https://img.shields.io/twitter/follow/axlbjx?logo=twitter&style=for-the-badge" alt="axlbjx" /></a> </p>
 
-- 🔭 I’m currently working on **POS mobile application**
+- 🔭 I’m currently working on **Ticket Scanner mobile application**
 
 - 🌱 I’m currently learning **React Native**
 
