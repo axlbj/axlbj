@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/axlbjx" target="blank"><img src="https://img.shields.io/twitter/follow/axlbjx?logo=twitter&style=for-the-badge" alt="axlbjx" /></a> </p>
 
-- 🔭 I’m currently working on **Ticket Scanner mobile application**
+- 🔭 I’m currently working on **FinTech mobile application**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - ⚡ Fun fact **I think I am Funny**
 
